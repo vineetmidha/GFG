@@ -2,7 +2,7 @@
 
 /* The function should return position where the target string 
    matches the string str
-Your are required to complete this method */
+*/
 int strstr(string s, string x)
 {
      if (x.size() > s.size()) return -1;
