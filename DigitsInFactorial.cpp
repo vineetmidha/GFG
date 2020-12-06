@@ -1,4 +1,4 @@
-
+// https://practice.geeksforgeeks.org/problems/digits-in-factorial/0/?track=dsa-workshop-1-mathematics&batchId=308
 
 int digitsInFactorial(int n)
 {
